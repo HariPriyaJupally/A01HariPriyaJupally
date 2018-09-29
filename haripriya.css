@@ -1,0 +1,55 @@
+article
+{
+	background-color : #00ffff;
+	text-align : left;
+	font-style : italic;
+	font-size : 100%;
+}
+header
+{
+	background-color : #ffc4d1;
+	border: 1px solid purple;
+	text-align : center;
+	font-family : bold;
+	font-size : 100%;
+}
+footer{
+	clear: both;
+    background-color : #ffc4d1;
+	border: 2px solid purple;
+	text-align : center;
+	font-size : 100%;
+}
+#past-section{
+	color: black;
+	font-size : 100%;
+}
+#future-section{
+	color: black;
+	font-size : 100%;
+}
+.section-header{
+	color: black;
+	font-size : 100%;
+}
+.aside-header{
+	color: purple;
+	font-size : 100%;
+}
+#active {
+    background-color: #4CAF50;
+}
+.center
+{
+	text-align:center;
+}
+li a:hover:not(.active) {
+    background-color: #111;
+}
+body{
+	background-color: #00ffff;
+	text-align: center;
+	background-image: url("pexel.jpg");
+	background-size: 100%;
+}
+
